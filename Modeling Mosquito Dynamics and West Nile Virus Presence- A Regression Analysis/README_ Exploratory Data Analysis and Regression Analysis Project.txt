@@ -1,5 +1,6 @@
 ﻿Project Overview
-This project involves performing Exploratory Data Analysis (EDA) and building a Regression Model to extract insights and predict outcomes from the given dataset. The primary objectives of the analysis are to understand the relationships between variables, identify patterns, and evaluate the performance of a predictive regression model.
+This project involves performing Exploratory Data Analysis (EDA) and building a Regression Model to extract insights and predict outcomes from the given dataset. The primary objectives 
+of the analysis are to understand the relationships between variables, identify patterns, and evaluate the performance of a predictive regression model.
 
 Project Goals
 1. Exploratory Data Analysis (EDA):

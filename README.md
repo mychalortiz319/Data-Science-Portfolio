@@ -15,7 +15,7 @@ ________________
 * Goal: To assist fantasy football enthusiasts in making data-driven decisions for their rosters.
 
 
-2. Miami Market Insights: Predicting Housing Prices with Machine Learning
+2. Miami Housing Market Analysis and Predictions
 
 * Description: This project analyzes the Miami housing market to predict property sale prices using machine learning models. It identifies key factors influencing housing prices and leverages both linear regression and XGBoost for accurate predictions.
 

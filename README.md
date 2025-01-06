@@ -6,7 +6,7 @@ Welcome to my GitHub portfolio! This repository showcases my diverse range of pr
 ________________
 📂 Projects Overview
 
-1. Fantasy Forecasts
+1. Fantasy Forecasting
 
 * Description: A project aimed at predicting NFL player performance for fantasy football using machine learning models. This involves analyzing player statistics, team dynamics, and other relevant factors to provide accurate predictions.
 

@@ -55,16 +55,13 @@ Saved the cleaned and segmented dataframes for use in predictive modeling workfl
 Objective: 
 This notebook focuses on feature engineering and baseline model implementation to predict fantasy football player performance.
 
-1. Feature Engineering:
-Computed 5-game rolling averages for key stats (e.g., passing yards, rushing yards, receiving yards) to capture recent performance trends.
+1. Feature Engineering: Computed 5-game rolling averages for key stats (e.g., passing yards, rushing yards, receiving yards) to capture recent performance trends.
 Calculated cumulative and average stats for fantasy points, rushing, passing, and receiving metrics up to each week, excluding the current week.
 
-2. Model Development:
-Implemented baseline regression models, including Linear Regression and Ridge Regression, to predict player fantasy performance.
+2. Model Development: Implemented baseline regression models, including Linear Regression and Ridge Regression, to predict player fantasy performance.
 Used both cumulative season metrics and 5-game rolling averages as predictors to assess their impact on model accuracy.
 
-3. Model Evaluation:
-Evaluated models using Mean Absolute Error (MAE) and R-squared (R²) metrics to measure predictive power. 
+3. Model Evaluation: Evaluated models using Mean Absolute Error (MAE) and R-squared (R²) metrics to measure predictive power. 
 Found that certain positions (e.g., Quarterbacks) achieved better metrics due to the consistent nature of their role and statistical contributions. Leveraged grid search cross-validation to optimize hyperparameters, which significantly improved predictions for all positions.
 
 **Advanced Modeling**

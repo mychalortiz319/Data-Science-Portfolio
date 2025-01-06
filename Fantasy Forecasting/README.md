@@ -70,7 +70,6 @@ Objective:
 This notebook builds upon the baseline models by incorporating traditional Gradient Boosting algorithms to improve predictions of fantasy football player performance. It evaluates model performance while addressing potential overfitting issues.
 
 1. Feature Engineering:
-
 Used the same features developed during baseline modeling, including 5-game rolling averages for key stats and cumulative metrics for fantasy points, rushing, passing, and receiving metrics.
 Did not include further feature engineering beyond the baseline approach to maintain a consistent feature set for comparison.
 

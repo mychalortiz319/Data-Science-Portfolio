@@ -1,12 +1,3 @@
-## Future Steps
-
-1. Add your own data in `./data/` and remove placeholder. Note: `.gitignore` will ignore the data folder when you push to github, save a copy of your raw and processed data, pickled models in a Google Drive folder and add the link in the `data_links.md` file.
-2. Add your project documents, figures, reports, presentation pdf's in the `./docs` and remove placeholders.
-3. Add your references (tutorials, papers, books etc.) in `./references`. 
-4. Add your own scripts in `./src/` and remove unnecessary folders.
-
-------------------------------------------------------------------------------
-
 ## Fantasy Forecasts
 =========================
 
